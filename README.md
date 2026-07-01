@@ -1,3 +1,5 @@
+## Mumla 语音频道 https://tv1288.xyz/Mumla.html
+支持 Windows / macOS / iPhone / Android
 ## 一键命令 
 docker run -d -p 6001:6001 --name migu2026 qqt8520/migu2026:1.0
 
